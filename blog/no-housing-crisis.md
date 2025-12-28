@@ -2,7 +2,7 @@
 layout: default
 title: There is no Housing Crisis
 date: 2025-12-28
-description: Coming soon
+description: A provocative argument that the housing crisis is actually a myth, and everything is working as expected.
 tags: [opinion, housing, uk]
 ---
 
