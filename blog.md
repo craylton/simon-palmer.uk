@@ -13,3 +13,8 @@ layout: default
 25th September 2025
 
 [Read more →](blog/economy-is-weird.html)
+
+## There is no Housing Crisis
+21st December 2025
+
+[Read more →](blog/no-housing-crisis.html)
