@@ -7,7 +7,7 @@ tags: [opinion, housing, uk]
 ---
 
 ## There is no Housing Crisis
-21st December 2025
+28th December 2025
 
 We all know there's a housing crisis. We're repeatedly told in news articles about the housing crisis. Online influencers and commentators talk about the housing crisis all the time. Although this article is focused on the UK, this is a common theme across the whole developed world - house prices are so high that nobody can afford to buy them.
 
